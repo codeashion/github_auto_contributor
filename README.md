@@ -14,7 +14,7 @@ The app will automatically create a contribution, saving you time and helping ke
 
 Whether you're building your profile or just having fun with green squares, this tool helps automate the process with ease.
 
-<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-09-18 at 19 01 18" src="https://github.com/user-attachments/assets/ff5f737e-4301-4d1f-92f8-80502769aee9" height="100"/>
+<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-09-18 at 19 01 18" src="https://github.com/user-attachments/assets/ff5f737e-4301-4d1f-92f8-80502769aee9"/>
 
+<img width="1179" height="2556" alt="IMG_9688" src="https://github.com/user-attachments/assets/ad4e0f05-e699-4edb-af6d-f13a54778c5c" />
 
-<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-09-18 at 19 01 13" src="https://github.com/user-attachments/assets/704f4f2d-4b16-4e2c-9592-071a4eb71d14" width="300"/>
